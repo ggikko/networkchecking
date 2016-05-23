@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkApp</string>
+    <string name="title_activity_two">TwoActivity</string>
+</resources>
